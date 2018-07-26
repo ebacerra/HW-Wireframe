@@ -1,0 +1,37 @@
+/* First homework */
+header {
+    background-color: #777777;
+    border: #cccccc;
+}
+h1 {
+   color: #4aaaa5; 
+   font-family: Georgia, Times, 'Times New Roman', serif;
+}
+
+#header{
+    font-family: 
+}
+
+#button {
+
+}
+
+.container {
+    width: 960px;
+    height: 960px;
+    float: center;
+}
+
+p {
+    color: #777777;
+}
+
+body {
+ background-color: #ffffff;
+ font-family: Arial, Helvetica, sans-serif
+}
+
+footer {
+    background: 666666;
+
+}
